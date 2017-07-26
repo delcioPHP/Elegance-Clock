@@ -1,0 +1,47 @@
+
+html, body
+{
+    /*border:0;*/
+    /*margin: 0;*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-clock
+{
+    color: #FFFFFF;
+    font-size: 80px;
+    display: block;
+    font-weight: lighter;
+
+}
+.clock-block
+{
+    width: 540px;
+    height: 106px;
+    background-color: #111111;
+    opacity: 0.98;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -309px;
+    margin-top: -107px;
+    padding: 40px;
+
+
+}
+
+.semana-clock
+{
+    color: #FFFFFF;
+    font-size: 30px;
+    text-align: justify;
+    display: block;
+    font-weight: lighter;
+}
+.display
+{
+    display: inline-block;
+    margin-left: 5%;
+}
