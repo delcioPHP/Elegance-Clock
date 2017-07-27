@@ -14,14 +14,6 @@ Time: 20:44 PM
 Elegance Clock written in JQuery and CSS
 Relógio Elegante escrito em JQuery e CSS
 
-## Install via composer / Instalar via composer:
-```
-    {
-       "require": {
-           "cabanga/Clock-Elegancy"
-       }
-    }
-```
 
 ## How to use it? / Uso básico:
 Create a simple HTML file, with class ( clock and semana-clock) / Crie um simples HTML com as classes clock e semana-clock:
