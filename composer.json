@@ -1,0 +1,15 @@
+{
+  "name": "elegancy/clock",
+  "type": "library",
+  "description": "clock build with Jquery",
+  "keyword": ["clock", "jquery"],
+  "homepage": "https://github.com/delcioPHP/Elegance-Clock",
+  "license": "MIT",
+  "author":
+          [
+            {
+              "name":"Delcio Cabanga",
+              "email":"ribeiro.cabanga@gmail.com"
+            }
+          ]
+}
